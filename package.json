@@ -1,8 +1,14 @@
 {
   "name": "bw-app-2-1774961892",
   "version": "1.0.0",
-  "description": "Black & white light-themed ops dashboard",
+  "description": "Vapor Thread monochrome ops dashboard",
   "type": "module",
-  "scripts": { "start": "node server.js" },
-  "dependencies": {"express": "^4.19.2", "cors": "^2.8.5", "nanoid": "^5.0.6"}
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "nanoid": "^5.0.6"
+  }
 }
